@@ -41,5 +41,4 @@ public class Manager : MonoBehaviour
         Debug.Log("Enemy Defeated!\nPurse: " + coins + " coins");
     }
 
-    // Clicking Enemy reduces health
 }
