@@ -114,3 +114,4 @@ MonoBehaviour:
   speed: 3
   coins: 3
   waypointList: []
+  manager: {fileID: 0}
