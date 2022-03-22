@@ -1,1 +1,1 @@
-# cst326-towerdefense
+# CST326 - Tower Defense
